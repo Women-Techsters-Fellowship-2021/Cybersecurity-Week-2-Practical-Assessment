@@ -3,7 +3,7 @@
 
 ## Practical Activity 2 Based on Azure Cloud Disaster Recovery  
 
-# Assume that you are working as Azure cloud Information Security Officer in maintaining client’s data and running servers. 
+Assume that you are working as Azure cloud Information Security Officer in maintaining client’s data and running servers. 
 
 1. Deploy a windows server 2016 Gen 1 remotely on your machine from Azure cloud. 
 
